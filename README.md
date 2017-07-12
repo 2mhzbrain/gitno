@@ -1,7 +1,7 @@
-# gitno
-scrabbled word of ginto "gold"
+# ktcode
+this will be the start of my journey
 
-First time using github, I think it is a great way of editting my codes using this popular platform.
+First time using github. It is a great way of editting my codes using this popular platform.
 
 Changelog:
 July 08, 2017
